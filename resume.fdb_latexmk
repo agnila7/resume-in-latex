@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1693613564 "c:/Users/barua/Documents/job 2021/YES/web development/latex resume/resume.tex" "resume.pdf" "resume" 1693613565 0
+["pdflatex"] 1693676489 "c:/Users/barua/Documents/job 2021/YES/web development/latex resume/resume.tex" "resume.pdf" "resume" 1693676491 0
   "C:/Users/barua/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1693592972 80937 91001db6d4ae332437b4b739862cda02 ""
   "C:/Users/barua/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1693592887 24120578 874328a6fd9ac68d287bf36bd223b048 ""
   "C:/Users/barua/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
@@ -83,10 +83,10 @@
   "C:/Users/barua/AppData/Local/Programs/MiKTeX/tex/latex/tools/tabularx.sty" 1686255640 7147 d80d8cf72d313443d08c13c1af59c90f ""
   "C:/Users/barua/AppData/Local/Programs/MiKTeX/tex/latex/tools/verbatim.sty" 1686255640 7392 ed69c044ab18d5539723c1c7b8c2ee88 ""
   "C:/Users/barua/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388494052 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "c:/Users/barua/Documents/job 2021/YES/web development/latex resume/resume.tex" 1693613562 12263 a305744d4c3aee424c0532fcc751c8b9 ""
-  "resume.aux" 1693613565 1169 4de90b93a0ec77d9dd0c8d76f9f65de8 "pdflatex"
-  "resume.out" 1693613565 468 a24c8d2460263b09168591b3c0e241f4 "pdflatex"
-  "resume.tex" 1693613562 12263 a305744d4c3aee424c0532fcc751c8b9 ""
+  "c:/Users/barua/Documents/job 2021/YES/web development/latex resume/resume.tex" 1693676488 10248 903f257d796bbb5ac3db9e59f269a2f5 ""
+  "resume.aux" 1693676491 1169 137a3f61b09d453aa8c57b20450b16ca "pdflatex"
+  "resume.out" 1693676491 468 a24c8d2460263b09168591b3c0e241f4 "pdflatex"
+  "resume.tex" 1693676488 10248 903f257d796bbb5ac3db9e59f269a2f5 ""
   (generated)
   "resume.aux"
   "resume.log"
