@@ -1,8 +1,8 @@
+## Readme
+
+Thanks to Jake Gutierrez. my resume has been shaped according to [jakegut/resume](https://github.com/jakegut/resume.git)
+
 # resume
-LaTeX template for my personal resume
 
-Based off of [sb2nov/resume](https://github.com/sb2nov/resume/)
-
-Use it on overleaf: [Jake's Resume](https://www.overleaf.com/latex/templates/jakes-resume/syzfjbzwjncs) (Not updated)
-
-![Resume Preview](resume.png)
+![Resume Preview](resume1.png)
+![Resume Preview](resume2.png)
